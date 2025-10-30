@@ -1,0 +1,4 @@
+/home/ifx/Tushar/test_code/cmake_demo/build/CMakeFiles/my_lib.dir
+/home/ifx/Tushar/test_code/cmake_demo/build/CMakeFiles/hello_world.dir
+/home/ifx/Tushar/test_code/cmake_demo/build/CMakeFiles/edit_cache.dir
+/home/ifx/Tushar/test_code/cmake_demo/build/CMakeFiles/rebuild_cache.dir
